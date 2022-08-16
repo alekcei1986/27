@@ -5,30 +5,17 @@
 <tr>
 
 
-  <th><%= 'Last Name' %></th>
-  <th><%= 'Username' %></th>
-  <th><%= 'Color' %></th>
-  <th><%= 'phone' %></th>
-
-
   
-  <th><%= 'Last Name' %></th>
+  
   <th><%= 'Username' %></th>
-  <th><%= 'Color' %></th>
   <th><%= 'phone' %></th>
-  <th><%= '	First Name' %></th>
-  <th><%= 'Last Name' %></th>
+  <th><%= 'phone' %></th>
   <th><%= 'Username' %></th>
-  <th><%= 'Color' %></th>
-  <th><%= 'phone' %></th>
-  <th><%= '	First Name' %></th>
-  <th><%= 'Last Name' %></th>
-  <th><%= 'Username' %></th>
-  <th><%= 'Color' %></th>
-  <th><%= 'phone' %></th>
+
+  <th><%= 'color' %></th>
   </tr>
 </thead>
-<boby>
+<tboby>
 <% @results.each do |row| %>
 <tr>
   <td><%= row['username']  %></td>
@@ -39,5 +26,5 @@
   </tr>
 
 <% end %>
-</boby>
+</tboby>
   </table>
