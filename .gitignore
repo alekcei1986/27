@@ -1,0 +1,13 @@
+
+barbershop.db
+public/node_modules/.package-lock.json
+public/node_modules/jquery-datetimepicker/.travis.yml
+public/node_modules/jquery-datetimepicker/MIT-LICENSE.txt
+public/node_modules/jquery-datetimepicker/README.md
+public/node_modules/jquery-datetimepicker/bower.json
+public/node_modules/jquery-datetimepicker/build/jquery.datetimepicker.full.js
+public/node_modules/jquery-datetimepicker/build/jquery.datetimepicker.full.min.js
+public/node_modules/jquery-datetimepicker/datetimepicker.jquery.json
+public/node_modules/jquery-datetimepicker/doc.tpl
+public/node_modules/jquery-datetimepicker/index.html
+views/layout.erb
